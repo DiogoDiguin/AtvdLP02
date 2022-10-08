@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1632876724 source:c:\users\usuario\desktop\atividades prova parcial lp ii\exercicio 05 _ soma & sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1633210324 source:c:\users\samsung\desktop\atividades prova parcial lp ii\exercicio 05 _ soma & sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1633905914 source:c:\users\samsung\desktop\parcial lp ii\atividade avaliativa parcial lpii _ diogo _ 836846\exercicio 05 _ soma _ sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	"apresentacao.h"
+
+1633899171 c:\users\samsung\desktop\parcial lp ii\atividade avaliativa parcial lpii _ diogo _ 836846\exercicio 05 _ soma _ sub\apresentacao.h
+
+1634157418 source:c:\users\samsung\desktop\exercicio 05 _ soma _ sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	"apresentacao.h"
+
+1633899171 c:\users\samsung\desktop\exercicio 05 _ soma _ sub\apresentacao.h
+
+1634686092 source:c:\users\836846\desktop\atividade avaliativa parcial lp ii _ diogo vitor _ 836846\programas\exercicio 05 _ soma _ sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	"apresentacao.h"
+
+1634687013 c:\users\836846\desktop\atividade avaliativa parcial lp ii _ diogo vitor _ 836846\programas\exercicio 05 _ soma _ sub\apresentacao.h
+
